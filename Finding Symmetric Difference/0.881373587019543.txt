@@ -1,0 +1,9 @@
+import numpy as np
+
+x = np.arcsinh(1.0)
+
+print(x)
+
+
+
+0.881373587019543
